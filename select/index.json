@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミライパスポート [2025 Remastered]",
+  "base_artist": "EmoCosine",
+  "createdAt": "2026-01-06T09:57:04.257685Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミライパスポート (feat. Risa Yuzuki)",
+      "artist": "EmoCosine",
+      "has_synced": false,
+      "path": "select/pl_01_ミライパスポート_(feat._Risa_Yuzuki)_EmoCosine.txt"
+    }
+  ]
+}
